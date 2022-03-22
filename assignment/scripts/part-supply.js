@@ -76,7 +76,7 @@ console.log('9. Filling boxes with a "while" loop');
 let fillingBox = [];
 total = 572;
 while( total > 6){
-    console.log('Filling box:', total);
+    // console.log('Filling box:', total);  //console to show the value of parts after subtracting 7
     total -= 7;
     if( total > 0){
     fillingBox.push(total);
