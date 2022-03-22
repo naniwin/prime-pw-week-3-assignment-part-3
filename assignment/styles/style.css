@@ -8,3 +8,10 @@ header {
 footer {
     background-color:sandybrown;
     }
+img {
+    width: 100%;
+    height: auto;
+    /* border: 20px solild black; */
+    /* margin-left: auto;
+    margin-right: auto; */
+}
